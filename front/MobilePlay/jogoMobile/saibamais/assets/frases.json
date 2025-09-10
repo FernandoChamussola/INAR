@@ -1,0 +1,600 @@
+{
+  "frases": [
+    {
+      "dica": "Fruta amarela, rica em potássio",
+      "palavra": "banana"
+    },
+    {
+      "dica": "Animal que mia",
+      "palavra": "gato"
+    },
+    {
+      "dica": "Planeta vermelho",
+      "palavra": "marte"
+    },
+    {
+      "dica": "Líquido transparente essencial à vida",
+      "palavra": "agua"
+    },
+    {
+      "dica": "Astro que ilumina a Terra durante o dia",
+      "palavra": "sol"
+    },
+    {
+      "dica": "Meio de transporte com quatro rodas",
+      "palavra": "carro"
+    },
+    {
+      "dica": "Animal que late",
+      "palavra": "cachorro"
+    },
+    {
+      "dica": "Fruta vermelha pequena e doce",
+      "palavra": "morango"
+    },
+    {
+      "dica": "Órgão que bombeia sangue",
+      "palavra": "coracao"
+    },
+    {
+      "dica": "Estação do ano mais quente",
+      "palavra": "verao"
+    },
+    {
+      "dica": "Cor do céu em dia claro",
+      "palavra": "azul"
+    },
+    {
+      "dica": "Animal que voa e faz ninhos",
+      "palavra": "passaro"
+    },
+    {
+      "dica": "Bebida quente feita com grãos torrados",
+      "palavra": "cafe"
+    },
+    {
+      "dica": "Fruta cítrica de cor laranja",
+      "palavra": "laranja"
+    },
+    {
+      "dica": "Planeta onde vivemos",
+      "palavra": "terra"
+    },
+    {
+      "dica": "Animal grande com tromba",
+      "palavra": "elefante"
+    },
+    {
+      "dica": "Flor símbolo do amor",
+      "palavra": "rosa"
+    },
+    {
+      "dica": "Animal listrado da África",
+      "palavra": "zebra"
+    },
+    {
+      "dica": "Órgão que usamos para pensar",
+      "palavra": "cerebro"
+    },
+    {
+      "dica": "Estação das flores",
+      "palavra": "primavera"
+    },
+    {
+      "dica": "Animal rei da selva",
+      "palavra": "leao"
+    },
+    {
+      "dica": "Fruta pequena e roxa",
+      "palavra": "uva"
+    },
+    {
+      "dica": "Construção onde moramos",
+      "palavra": "casa"
+    },
+    {
+      "dica": "Animal que produz lã",
+      "palavra": "ovelha"
+    },
+    {
+      "dica": "Instrumento musical de cordas",
+      "palavra": "violao"
+    },
+    {
+      "dica": "Fruta tropical amarela e doce",
+      "palavra": "abacaxi"
+    },
+    {
+      "dica": "Animal que nada no mar",
+      "palavra": "peixe"
+    },
+    {
+      "dica": "Cor da neve",
+      "palavra": "branco"
+    },
+    {
+      "dica": "Animal que produz mel",
+      "palavra": "abelha"
+    },
+    {
+      "dica": "Vegetal verde usado em saladas",
+      "palavra": "alface"
+    },
+    {
+      "dica": "Animal que galopa",
+      "palavra": "cavalo"
+    },
+    {
+      "dica": "Fruto seco usado em doces",
+      "palavra": "castanha"
+    },
+    {
+      "dica": "Animal que pula muito alto",
+      "palavra": "canguru"
+    },
+    {
+      "dica": "Objeto usado para escrever",
+      "palavra": "caneta"
+    },
+    {
+      "dica": "Animal que anda devagar",
+      "palavra": "caracol"
+    },
+    {
+      "dica": "Fruta vermelha com caroço",
+      "palavra": "cereja"
+    },
+    {
+      "dica": "Profissional que cura pessoas",
+      "palavra": "medico"
+    },
+    {
+      "dica": "Local onde guardamos dinheiro",
+      "palavra": "banco"
+    },
+    {
+      "dica": "Animal que vive na água e respira por guelras",
+      "palavra": "tubarao"
+    },
+    {
+      "dica": "Fruta grande e verde por fora, vermelha por dentro",
+      "palavra": "melancia"
+    },
+    {
+      "dica": "Animal que carrega sua casa nas costas",
+      "palavra": "tartaruga"
+    },
+    {
+      "dica": "Inseto colorido que voa de flor em flor",
+      "palavra": "borboleta"
+    },
+    {
+      "dica": "Vegetal alaranjado que cresce na terra",
+      "palavra": "cenoura"
+    },
+    {
+      "dica": "Animal que dorme de cabeça para baixo",
+      "palavra": "morcego"
+    },
+    {
+      "dica": "Fruta doce e suculenta com caroço",
+      "palavra": "pessego"
+    },
+    {
+      "dica": "Animal pequeno que faz queijo",
+      "palavra": "rato"
+    },
+    {
+      "dica": "Objeto que marca as horas",
+      "palavra": "relogio"
+    },
+    {
+      "dica": "Animal que muda de cor",
+      "palavra": "camaleao"
+    },
+    {
+      "dica": "Fruta azeda usada em caipirinha",
+      "palavra": "limao"
+    },
+    {
+      "dica": "Animal que constrói represas",
+      "palavra": "castor"
+    },
+    {
+      "dica": "Vegetal roxo e alongado",
+      "palavra": "berinjela"
+    },
+    {
+      "dica": "Animal que vive no gelo",
+      "palavra": "pinguim"
+    },
+    {
+      "dica": "Fruta com espinhos por fora",
+      "palavra": "abacate"
+    },
+    {
+      "dica": "Animal que bate o rabo quando está feliz",
+      "palavra": "cachorro"
+    },
+    {
+      "dica": "Objeto usado para se proteger da chuva",
+      "palavra": "guarda"
+    },
+    {
+      "dica": "Animal que troca de pele",
+      "palavra": "cobra"
+    },
+    {
+      "dica": "Fruta pequena e verde ou roxa",
+      "palavra": "azeitona"
+    },
+    {
+      "dica": "Animal que vive em colmeias",
+      "palavra": "abelha"
+    },
+    {
+      "dica": "Vegetal branco que faz chorar",
+      "palavra": "cebola"
+    },
+    {
+      "dica": "Animal que urra alto",
+      "palavra": "urso"
+    },
+    {
+      "dica": "Fruta tropical com polpa branca",
+      "palavra": "coco"
+    },
+    {
+      "dica": "Animal que salta de galho em galho",
+      "palavra": "macaco"
+    },
+    {
+      "dica": "Objeto usado para iluminar",
+      "palavra": "lampada"
+    },
+    {
+      "dica": "Animal que faz teias",
+      "palavra": "aranha"
+    },
+    {
+      "dica": "Fruta pequena e avermelhada",
+      "palavra": "tomate"
+    },
+    {
+      "dica": "Animal que come bambu",
+      "palavra": "panda"
+    },
+    {
+      "dica": "Objeto usado para cortar",
+      "palavra": "faca"
+    },
+    {
+      "dica": "Animal que nada e respira ar",
+      "palavra": "golfinho"
+    },
+    {
+      "dica": "Fruta seca muito nutritiva",
+      "palavra": "amendoa"
+    },
+    {
+      "dica": "Animal que voa à noite",
+      "palavra": "coruja"
+    },
+    {
+      "dica": "Objeto para sentar",
+      "palavra": "cadeira"
+    },
+    {
+      "dica": "Animal com pescoço muito longo",
+      "palavra": "girafa"
+    },
+    {
+      "dica": "Vegetal verde usado em sopas",
+      "palavra": "aipo"
+    },
+    {
+      "dica": "Animal que ruge",
+      "palavra": "tigre"
+    },
+    {
+      "dica": "Fruta doce de cor amarela ou verde",
+      "palavra": "manga"
+    },
+    {
+      "dica": "Animal que vive na água doce",
+      "palavra": "sapo"
+    },
+    {
+      "dica": "Objeto usado para cozinhar",
+      "palavra": "panela"
+    },
+    {
+      "dica": "Animal que tem oito pernas",
+      "palavra": "polvo"
+    },
+    {
+      "dica": "Fruta cítrica muito azeda",
+      "palavra": "limao"
+    },
+    {
+      "dica": "Animal que vive no deserto",
+      "palavra": "camelo"
+    },
+    {
+      "dica": "Objeto usado para beber",
+      "palavra": "copo"
+    },
+    {
+      "dica": "Animal que late e é fiel",
+      "palavra": "cao"
+    },
+    {
+      "dica": "Fruta vermelha com sementes do lado de fora",
+      "palavra": "morango"
+    },
+    {
+      "dica": "Animal que vive em cardumes",
+      "palavra": "sardinha"
+    },
+    {
+      "dica": "Objeto usado para limpar",
+      "palavra": "vassoura"
+    },
+    {
+      "dica": "Animal que hiberna no inverno",
+      "palavra": "urso"
+    },
+    {
+      "dica": "Fruta tropical com casca dura",
+      "palavra": "coco"
+    },
+    {
+      "dica": "Animal que canta ao amanhecer",
+      "palavra": "galo"
+    },
+    {
+      "dica": "Objeto usado para estudar",
+      "palavra": "livro"
+    },
+    {
+      "dica": "Animal que tem listras pretas e brancas",
+      "palavra": "zebra"
+    },
+    {
+      "dica": "Fruta doce com muitas sementes",
+      "palavra": "figo"
+    },
+    {
+      "dica": "Animal que produz leite",
+      "palavra": "vaca"
+    },
+    {
+      "dica": "Objeto usado para transportar coisas",
+      "palavra": "mala"
+    },
+    {
+      "dica": "Animal que vive em ninhos no alto",
+      "palavra": "aguia"
+    },
+    {
+      "dica": "Fruta pequena e escura",
+      "palavra": "amora"
+    },
+    {
+      "dica": "Animal que late e protege a casa",
+      "palavra": "cachorro"
+    },
+    {
+      "dica": "Objeto usado para medir temperatura",
+      "palavra": "termometro"
+    },
+    {
+      "dica": "Animal que vive em grupos chamados matilha",
+      "palavra": "lobo"
+    },
+    {
+      "dica": "Fruta cítrica pequena e verde",
+      "palavra": "lima"
+    },
+    {
+      "dica": "Animal que carrega peso nas costas",
+      "palavra": "burro"
+    },
+    {
+      "dica": "Objeto usado para ver longe",
+      "palavra": "oculos"
+    },
+    {
+      "dica": "Animal que vive no fundo do mar",
+      "palavra": "caranguejo"
+    },
+    {
+      "dica": "Fruta doce e suculenta",
+      "palavra": "pera"
+    },
+    {
+      "dica": "Animal que nada muito rápido",
+      "palavra": "tubarao"
+    },
+    {
+      "dica": "Objeto usado para comunicação",
+      "palavra": "telefone"
+    },
+    {
+      "dica": "Animal que vive em bandos",
+      "palavra": "flamingo"
+    },
+    {
+      "dica": "Fruta com polpa alaranjada",
+      "palavra": "mamao"
+    },
+    {
+      "dica": "Animal que escava túneis",
+      "palavra": "toupeira"
+    },
+    {
+      "dica": "Objeto usado para tocar música",
+      "palavra": "piano"
+    },
+    {
+      "dica": "Animal que come formigas",
+      "palavra": "tamandua"
+    },
+    {
+      "dica": "Fruta tropical muito doce",
+      "palavra": "manga"
+    },
+    {
+      "dica": "Animal que voa em enxames",
+      "palavra": "abelha"
+    },
+    {
+      "dica": "Objeto usado para comer",
+      "palavra": "garfo"
+    },
+    {
+      "dica": "Animal que vive em tocas",
+      "palavra": "coelho"
+    },
+    {
+      "dica": "Fruta com casca rugosa",
+      "palavra": "abacaxi"
+    },
+    {
+      "dica": "Animal que muda de cor conforme o ambiente",
+      "palavra": "camaleao"
+    },
+    {
+      "dica": "Objeto usado para dormir",
+      "palavra": "cama"
+    },
+    {
+      "dica": "Animal que vive em colônias",
+      "palavra": "formiga"
+    },
+    {
+      "dica": "Fruta vermelha e doce",
+      "palavra": "maca"
+    },
+    {
+      "dica": "Animal que vive na selva",
+      "palavra": "jaguar"
+    },
+    {
+      "dica": "Objeto usado para escrever no quadro",
+      "palavra": "giz"
+    },
+    {
+      "dica": "Animal que tem chifres",
+      "palavra": "rinoceronte"
+    },
+    {
+      "dica": "Fruta pequena e azul",
+      "palavra": "mirtilo"
+    },
+    {
+      "dica": "Animal que vive em rebanhos",
+      "palavra": "ovelha"
+    },
+    {
+      "dica": "Objeto usado para abrir portas",
+      "palavra": "chave"
+    },
+    {
+      "dica": "Animal que solta tinta quando se sente ameaçado",
+      "palavra": "polvo"
+    },
+    {
+      "dica": "Fruta tropical com espinhos",
+      "palavra": "duriao"
+    },
+    {
+      "dica": "Animal que vive em cardumes coloridos",
+      "palavra": "peixe"
+    },
+    {
+      "dica": "Objeto usado para guardar roupas",
+      "palavra": "armario"
+    },
+    {
+      "dica": "Animal que bate as asas muito rápido",
+      "palavra": "beija"
+    },
+    {
+      "dica": "Fruta com muitas sementes pequenas",
+      "palavra": "kiwi"
+    },
+    {
+      "dica": "Animal que vive em grupos familiares",
+      "palavra": "elefante"
+    },
+    {
+      "dica": "Objeto usado para cozinhar no fogo",
+      "palavra": "frigideira"
+    },
+    {
+      "dica": "Animal que dorme durante o dia",
+      "palavra": "morcego"
+    },
+    {
+      "dica": "Fruta doce com caroço grande",
+      "palavra": "manga"
+    },
+    {
+      "dica": "Animal que consegue regenerar a cauda",
+      "palavra": "lagartixa"
+    },
+    {
+      "dica": "Objeto usado para iluminar na escuridão",
+      "palavra": "lanterna"
+    },
+    {
+      "dica": "Animal que vive em pântanos",
+      "palavra": "jacare"
+    },
+    {
+      "dica": "Fruta cítrica muito usada em sucos",
+      "palavra": "laranja"
+    },
+    {
+      "dica": "Animal que tem uma juba",
+      "palavra": "leao"
+    },
+    {
+      "dica": "Objeto usado para cortar papel",
+      "palavra": "tesoura"
+    },
+    {
+      "dica": "Animal que vive em ninhos feitos de barro",
+      "palavra": "andorinha"
+    },
+    {
+      "dica": "Fruta pequena e vermelha com caroço",
+      "palavra": "cereja"
+    },
+    {
+      "dica": "Animal que tem uma bolsa na barriga",
+      "palavra": "canguru"
+    },
+    {
+      "dica": "Objeto usado para medir peso",
+      "palavra": "balanca"
+    },
+    {
+      "dica": "Animal que vive em tocas no chão",
+      "palavra": "prairie"
+    },
+    {
+      "dica": "Fruta tropical muito perfumada",
+      "palavra": "maracuja"
+    },
+    {
+      "dica": "Animal que consegue ficar muito tempo sem água",
+      "palavra": "camelo"
+    },
+    {
+      "dica": "Objeto usado para navegar",
+      "palavra": "bussola"
+    }
+  ]
+}
